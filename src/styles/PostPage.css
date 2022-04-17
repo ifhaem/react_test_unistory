@@ -1,0 +1,16 @@
+.post-page {
+    padding: 15px;
+}
+.post-page__title {
+    margin: 30px 0 15px 0;
+}
+.post-page__input {
+    margin-bottom: 20px;
+}
+.post-page__textarea {
+    margin-bottom: 10px;
+}
+.post-page__btns {
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,23 @@
+.passive {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: none;
+    background: rgba(0,0,0, 0.5);
+}
+
+.content {
+    padding: 10px;
+    background: lightgray;
+    border: 1px solid gray;
+    border-radius: 2px;
+    min-width: 500px;
+}
+
+.active {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

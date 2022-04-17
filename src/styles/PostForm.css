@@ -1,0 +1,15 @@
+.post-form {
+    display: flex;
+    flex-direction: column;
+}
+.post-form__input {
+    margin-bottom: 10px;
+}
+
+.post-form__btns {
+    display: flex;
+    justify-content: end;
+}
+.post-form__btns>div {
+    margin-left: 15px;
+}

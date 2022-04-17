@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.blog {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    width: 800px;
+    margin: 5vh 20px;
+    background-color: lightgray;
+    border: 1px solid gray;
+    border-radius: 2px;
+}
+.blog__title {
+    text-align: center;
+    margin: 40px;
+}
+.blog__btn {
+    text-align: end;
+    margin: 30px;
+}
